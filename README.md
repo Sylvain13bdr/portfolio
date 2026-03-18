@@ -1,4 +1,4 @@
-# John Doe - Portfolio React.js
+# Sylvain Labeye - Portfolio React.js
 
 Portfolio professionnel d'un développeur web full stack, développé avec React.js et Bootstrap 5.
 
@@ -11,8 +11,8 @@ Portfolio professionnel d'un développeur web full stack, développé avec React
 
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-username/john-doe-portfolio.git
-cd john-doe-portfolio
+git clone https://github.com/Sylvain13bdr/portfolio.git
+cd portfolio
 
 # Installer les dépendances
 npm install
