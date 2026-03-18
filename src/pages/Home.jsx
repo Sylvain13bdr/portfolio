@@ -13,7 +13,7 @@ export default function Home() {
 
   // Récupération du profil GitHub une seule fois au chargement de la page
   useEffect(() => {
-    fetch("https://api.github.com/users/github-johndoe")
+    fetch("https://api.github.com/users/Sylvain13bdr")
       .then((res) => res.json())
       .then((data) => setGithubUser(data))
       .catch((err) => console.error("Erreur API GitHub :", err));
